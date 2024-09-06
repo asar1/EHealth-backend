@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "e-health-apis-300519",
+  "private_key_id": "e1ecff3581b6e9c9f747fe2211a00aadfd714b81",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCYfvA5kFii4+xX\nh2mU80ggJbZJuwDJ3rKzGftN1bp6j6Ze6N9k6oN0hOeNwRUtw2/vOsCdDm95xcU4\nsDTrMu9Li2Cb702vEqv6JfeppCx2+4Jhumq5tafCVmrLpZ5mQTV3lFbIGp0BpEr9\nNYle9DGffKGx1DrqcCuA18chRIoX/0TixaKG7teST9wdnQ8/QqL8tyGyMiezhywb\ny4eIwakBxE785bkJuK5c3cbWPWJWeCNFoyuAupBPJHmXsa6A73J90+nZPbj/8q8m\nKjqBEZGeogn0umhpkkNDRFm0j32ya05/ct7vGHkvQ1Z6Dp31yWkosJGspU2YfDJS\n3s+AD7+rAgMBAAECggEAAq5XCnWkNhdSipnOqTGIKhbscbcAJSYG93XuE7wKaQ81\n4JZ9hVuuIsVKmnszirg6s10E3krO4Otkmg69aQkrNdiZQtFeCN7uKrN++2Ei7jCV\nZglBL35AspgsWbCeuU0aMIqcf/lTAbouuCCFB46JgZrovAsI9VT/Hs1fkREqA5DD\nxc2P65/nPQH7WBPygzwxpQEZM38KrGT1OLtUVQOJFwB+u7VI010V+hW0+cZp9VHA\nodwutj4iDCvABugUVuWIP5rCr/9xniHFvkwMtg/pdTfIACFt4SzVi3wZboGOisQI\nkdKegeAEsomX4eZj/odwl5kpgjGMN7n/slEqtWbowQKBgQDW9HEHN9glI9OzQoLj\nRBHHj2x+ieugWDXBnPwZU1qBNaiKV5yj+W36zNUm6dfohEzqQIzQpkHabbCLxR8+\n20dt7qVrv/kL/XWr2fAEiAsrjQ2vKzIutBjiBYwjr4EhTzubxl+OKZ1rpGZ+BcOZ\n/g/X1YjX9+iEZwKkisU8+w9XiwKBgQC1nVY5MhDzX5ge+kbJ0wpyM3315lJma8wO\nzW4C0VEAwFYKArtjZRjEi0KlSDR6Gjh5wuryScaLJ2WTjxfp8TouswpBlcuVEE9y\n0YoEcgVk+SzQHqqSoDVGr5nhGZajPJ7kqEfmUxKWmFnuNSHYnYLAEFUdstBsqNQF\nmgyis5E8YQKBgA3E3rCdrSTD5L2o1wWDyLfFwidg4k0FGXxrd+KPak64hzFFZ21B\nfv//uu+hLwlf4CVpORvsam95c0Ogvt2h4jNyg/og8+0GsVDuxucjZ8PEZ0n/NFm1\ng5qGzHFEvrrJfoH99QUAOWs5vq73442rrowey4M6CBTjHFI56WR8mID9AoGAKR/P\nfnQP0ow67gjOLrVTEDkItL3KutZ+BnwOBSVQqlLjKLElrYQe76J5HOQUvfFiCHBS\nszpxcuEg5yDn0VmGSzzPfbpltwNSejVog0kuX4bs1tOa3Ejax37L4WTh72SytiRE\n46q78s3cz0vItjw0dzk7jNYIzBIOsJYJdm4i3QECgYBAVvRZ+ZQLuZ29RBFkFZrV\ndQIZzB05yTV8n1O0ArFKEjCUhnXzGkkJ4ixVlcGg9fyNcxOTMWbCxnzzrebc14tF\ngA5SJCORmORP2ofosSj7QvsQ60A2bGlopQeURt36UVA2708O8V+LiESUamQShDDS\neaigweSHjxSebobhX7aVRA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "e-health-apis-300519@appspot.gserviceaccount.com",
+  "client_id": "103783269742238688838",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/e-health-apis-300519%40appspot.gserviceaccount.com"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "e-health-server",
+  "private_key_id": "c53e6b70e8231395491328d48a81d13dfdd10c04",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCONHS3UGZQtCbL\n8rwy8H1JCvCGUEOgB5EFHD92kBfD4m0cK1OQKlDfCsOiGURCM1QSBDHFjhd2egdA\nqp6YJd+vDAS6TcfSLdmbF7RTkoEHNLIdm6eESUAv0RWKpwpR5MsziZKmUBBXhpZ0\nxD5BhqpcY2noWah5fQFJua+d+nvSVsmF00fgA/7+KTbxcGEJKLRBI6i9P874cEHs\ns8UO6geQSLGK9CTGjhxAS95xw5jRkl/kF7kJkT5xoCYWjm5ikX5VhKjDCF/H1aIB\n3pO9bqdiSHy3k7UWwJJfqnPC54lODd+bon//fMJ087F9a+vxHC3fd+sy0d4mJvmD\nnNyIPwUzAgMBAAECggEAL+6KcMeO1SED+raErP7Wm+ouDHe9c5FZVkmhMot7FzGY\n6WfJMMyymZt9OYQet9mpOrFjPV2ZlvumuitIbaxGazA337wb4EJIGLiytYCqMQ2Y\nA9bVbgdqtTNaeXO4TMY7n9F9NsXB3F6nFBCZk2iav61ao1ClMt3pszn9cdheKBVM\nEcqLHGXARcMx/G+feYPZT00GidlIWZjuJ/JHw3x6ujNjd1yeiwIEUHTnL7QpWbm2\noQVghmuOwPLozeDP/TW8MZl/fnEjmRMiM0jo49eINyc6HMrrFHpGRxUV5q/y5ny3\nr0rhdCZ/CRHVNrdsmHU0oopio3ygG7p58A2g8bn80QKBgQDBETKJCxVZJLW95eHi\n9qUVKOeuv8h5ZwlP6bEC4oUdTk0bDUYD0pHSQ5qjc89G4LL3aC7EoxX9xaqvhDSi\nomHreFj3uY0gjxkXpBgiH4/a21K+brPBueJu6SEbQMjEstQBY8QHE37ijnX22GBo\nqdPyVGMi/F/j4JEPzgD6HbGH/QKBgQC8jvleB6ien6Dbq+H69wKCzeYarxqM/9R8\nrM6cjvGgLFs/N6ii/EbWRwhuC8C2vjGF+yIpvCtSU9ExTpU/r7WkQU2ExJbf427t\nE4AS209flURk+t6D3GB7eh0AM/07/Z7mB3GeyFg7Rc/SaztcJ88RqetNml+r+QWu\nQH74U6pQ7wKBgAIlx9MgbW9daiwfl4Cnz7RJjTIzbe5zx/W8mrx2epaV3WO0pRe7\nyuV03Q5+ZkraiwMXhJWpXsBA56ImLVO1zLMK1qqCxOAc12Gc8KvIgBgmImh94MAB\n6lPjgfvEn7cYaiVNz8toWxv4C7XgOEpRwUrLx4KHHiXxxItRdk9R7zydAoGBALkb\n2y82cZEXwMEnInhQGkTzgZxcnsIhPScQNt13bzoBkaqkJ4eqBpjBr0Lpgs1kNhYE\nDuvN8PGnm0y+isK06qtP+JwIqt0s128in67jYi7ByR0hM2Vb6dQOc34Ji+di+qV0\nVVS99fBqfrVh1CqKYjxDBd9vV9DqbWs9oeiDqkY9AoGAetGT/6lNuL1VYHlD9LSH\naKoHT9L+pkfVcMdLT/Bna9IWdEG3BplxrIMfw/OcSSMf/5VvqfH83BRMLDtwwwIA\n6stgXqqGrkXa7ncEuvQCpLpumkoLGxDdS6oInBPNkM1zeam1qZc+wqdvVEjqAXWS\nh+P9mwVY2PrRIehlRPLspw8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "backend-server@e-health-server.iam.gserviceaccount.com",
+  "client_id": "100183508192662767261",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/backend-server%40e-health-server.iam.gserviceaccount.com"
+}

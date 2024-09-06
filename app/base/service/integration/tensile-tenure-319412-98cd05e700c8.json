@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tensile-tenure-319412",
+  "private_key_id": "98cd05e700c898faf397ef26dd2faa05993e9e54",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCbu18EnHu3epgZ\nSyJB3IzueTe75w/HkI3j06lFxdglqpfZtEg81xHAYSsu/moSd7P96m1smwoc/bYz\nigVbFUVNx+1PPYQsh9so3LsujNd71piG4LNP20jl2BPro7U6y8Ml2h332XNGohHH\n8u6wajkoAA6qDoQc+09dvIeMMzXJnIg2a0JoXSZ64EHw1AvfhUYcoLRuE7mnKRqU\nfVWG9HIEGZDSIfoK9rGxQ9xhmaFXOOXjopNrcRmuYb1/cR9NHoRZPq9skjO+Vfti\nD82l2UX/s4Nrxee0uNFQJfvwRu/pUAnzVdnC88EDwBtWbtHGSppOejbIjMU3dvF2\n+6ddf9ZrAgMBAAECggEAMaopTNqs1+BYhmSAOdng9iKhZCL11NKkdZ5ocvB8FNMZ\nV1wX15NNPXmfoH6RjG8xb05mdEbjjEhbZYdkWt5nOj2C0I0RTHRNL/RpG5jeFcfj\n38vkU5je4DIvdCxC3UvjYfx0JzlpeoKwQgCXH5rYvIl8I766YlXBQ2cfIVapljB+\nowB2s4n54sM7m6uWyMTK8gRNOyMNuk9UfJT1ySIkteM7WTW+QZ6tZSxbGrXukUs6\nWNGulqKUWtW+kTpyN/n1lQrgW6sKWUT7uaO3jmwyObUZ0QjAw+a9CeWYGWZvpYS4\neinVkoHjstZaurXN3N0oPSDmCh7dHlScOAcSp7xQpQKBgQDIqhCJObtJ+zEN1MKZ\nGGtV/qhlaV7ySJxWO8xTq1GKduzX7Sp2yn8ThPYxY0GGAatFUDV2k2eL444uHTT/\nG5jcHI7JRPOrBQ1lyRVONKsS4GzUAjFHn1D+rCT/CtKSNykd73C5cDoClaBjKCtd\n5wtFiOXMiDE/NbhPDdom0A3VjQKBgQDGrUunu+9e7iPXcdki6b7LTncEN6zDh/Yc\n36b9VkzH8AueJPVD+LjwYXorZNO3IFkkAgk6KbbmqyT4lJULYlk+TLb8bAjZ14PR\nd393GvQ4NNwwsy5XKQPv25klIfrqUlVkkQS/wG+Z4ktUV6HmZlLfVF8HIU13In6P\n1Yhhm+ex1wKBgQCcxEAm9PNc2OF57L4a3Pj+NfVZRPjoT9HTjOQUecM6aa6fAqoq\nJAkjNr0f2GtYRfWIMSGTgZVjtGNfo3HD28uQKr9ifnvfIBNXccEzV/JOzQY4m33k\ndpLQY6yDk/DuSinVOTrXpNWtLzgeP0OiGN61dD4TjFLtDwrut+O2btRgAQKBgQCI\nuxUZH+byTzQNfsWwGGv9YUfZeDOG8dg4MNes/CqlYxerw8Wj/NXSYVOB78cg/bs7\nY8dT5weAIoK0LRWSGyJOFN/OQs+olICctP/dSYiP8hkjzvzycUDLXzc7bfJQN0+b\ngY5iJR7pKesr5Y9/kCYyms83ifzVI8E0XgGZI4HGSwKBgQDCIemhO7nVlNHUUy+v\na8mxjwNQURj2TsY9e4aAjfjPGtdiBAHyQ1Tg2wREEhi+TgVGXYnkr6Xq/LELU9mo\neCT0iRJgNMk551nT/BYh66uyqzGzv6zimwQdruROr+X2rtWexaqMcC8so6XbAePu\nPtVOwjP23Td9SqnPowqeGORDXQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "storage-admin@tensile-tenure-319412.iam.gserviceaccount.com",
+  "client_id": "105353724072712166393",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storage-admin%40tensile-tenure-319412.iam.gserviceaccount.com"
+}

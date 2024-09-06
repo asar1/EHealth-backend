@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "e-health-apis",
+  "private_key_id": "e5000a152546bff2e7ce3e8dc4575478ac45de53",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDaBa1ycMeLQ5S5\nyOzuuJi4pmgSF6KRqICriqTEniD22vHyMeTxgebCqEM//Q71Hr6RpcYUhwumOaVR\neRGlSuLQtyHyL6qQ/+L5RVUu7GSOv0Ml4yoL16BoLk2K2plVaqqXFMtND0BwFRQQ\nDB1vaTfSPekByb6peiT0SAaxFJTaHSaBAC5HtMYW15wc2GTtc/a1AJkN3KDLHBTO\nQ7p9QdMmoL4B7x/f+s2sRi5AKwvN4x1URvE1h9W4Uh09y6vnVkOEMAGJ00LpusId\nEcw2SIH41m3DlSFjv32svWmEr6Grr0xe3HVLA/6d5uzVE8sxNJwMOK31RjwBi548\n/1+DOEQjAgMBAAECggEAFf9NURGd9dLQwQShGzOW0nKVEiuTpHygLC6l5zdJKNRN\nuwZbt3OdfnW5q01zYo9CjQbGezBmStQ1djNFRix4bAno1pBb9kX1zE65hILSC9uy\nVl1FfcJjayouJVy0QdEBpegG3HSLJ4PeQqw7lWUZU7tutKvP8ouMtPTwxTxytFAy\n6tW8i3tGTcEWACY0K0xZHp8Qdx2ukWnzxDG0Gt99QGbDa89fvsnkU/fOkJg6Ew/1\n+8hgFlMhXSLCSWvgIrZO6/aTJ7WPQpnXzujLwGaLTg17Qq/RM/gJw8qs6Vs3+8RK\nWi28XLacZRBPHBr6klrs79COxFI3UlkIxT9cHub4aQKBgQD1ZSibDmhZgVQeopDR\n4dKD/sCuiBMbp4wzEywjvA3ZXQOCK1SCOFH08sWABIuq2zih8p1xWHJ9wtDPfL8m\neX1Xag0uEnYElv++L021CnzBkRHR95T/xMCxQFrmQiiW4C4pcVn274aDCqcojbmL\nha2/qFIX+sFYIlFzSJtyqGMQxQKBgQDjcbAVXTUtZjArwMJ/LYaC/9qK5rMJ4LtW\n5Cn+NMJAIAA5K6gyRw1zaVfnyY/QoYrqA7y7tCB3jbDrnbvrcpRLNzSAZcXKGxei\nA41mCjfUuIYiqZEFo1XDkGl0TTHuqYcEPzWBlEYkISCOJrmNlBxHVSTUsIV/YiLv\nE52mEpr/xwKBgQDuzw0fKHxAbm2Qip/owJz/u1GECASgawMzSTsxY3cOy0f4y3Yo\na+rGN+Qf20yYb1LDt7mkbnCtFoPjCAF1zdE+2oQNDAYyHUiwqpQy1Qvny+fNr+Ue\nqzjixkAvyL57ZZtG1Xq5pwv+RsW534Jr1yHpXELX9z1lKbCeQlCU2m3eCQKBgDUS\nBgA2K35YZc0PwVJjkQtoH9phUk1vvsbbnmDOdrT3wpWUdj6lDaJsZjKTeZc42m0Y\nSiWSNjEvQqT3vS2HIssaKon7NVefUrhfE9NHdxePptzXrBsgrZZgT/rvOEN0EykO\nhrGho2wyvqHsr0c11BNg7qMiPUQn5fbbIOHrXXdpAoGAD31oSAxSJKO2KKEBmbYQ\nNnYn3GDo+IuyNiQ5XEojB11K0F7UkwR9XBsLUoEiGWJrkCyTQlLfj1XA/H75MVCg\nqduTX11UQDzk12KGOpejSeqfMD9nVDpFIvvNZj/vgkG+SsYgMo2O4p4+GwlaGmno\nA6XNhWOoA+rGmDOQAUNDuv8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "storing-images@e-health-apis.iam.gserviceaccount.com",
+  "client_id": "110455336343418081172",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storing-images%40e-health-apis.iam.gserviceaccount.com"
+}

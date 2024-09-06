@@ -1,0 +1,27 @@
+{
+    "fcm": {
+        "serverKey": ""
+    },
+    "aws": {
+        "region": "us-east-2",
+        "s3": {
+            "endpoint": "https://s3.us-east-2.amazonaws.com",
+            "buckets": {
+                "public": {
+                    "bucketname": "public",
+                    "folders": {
+                        "doc": {
+                            "foldername": "docs"
+                        },
+                        "image": {
+                            "foldername": "images"
+                        },
+                        "general": {
+                            "foldername": "general"
+                        }
+                    }
+                }   
+            }
+        }
+   }
+}
