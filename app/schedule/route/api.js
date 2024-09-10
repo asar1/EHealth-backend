@@ -15,7 +15,7 @@ router.get('/:doctor', async (req, res, next) => {
 });
 
 router.post('/', async (req, res, next) => {
-    console.log(req.user, 'this is user token')
+    console.log(req.user, 'this is user token');
     try {
         const data = await scheduleService.addSchedule(req.body, req.user);
         return data === true ? res.send(RS.successMessage('', 'Schedule has been added')) : res.send(RS.errorMessage(data));

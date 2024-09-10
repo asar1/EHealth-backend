@@ -83,6 +83,7 @@ const userLogin = (param) => {
     return userStorage
         .findOne({ email: email }, userPopulation.find)
         .then(async (user) => {
+            console.log(user, 'adding sync');
             if (
                 user &&
                 bcryptjs.compareSync(param.password, user.password) &&

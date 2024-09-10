@@ -26,6 +26,7 @@ router.post('/signup', (req, res, next) => {
 
 // User login
 router.post('/login', userAuthMiddleware, (req, res, next) => {
+    console.log(req, 'in login');
     return authService.userLogin(req.body)
         .then(data => {
             return res.send(RS.successMessage(data));

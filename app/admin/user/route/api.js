@@ -47,17 +47,6 @@ router.get('/downloadFClist', (req, res, next) => {
     );
 });
 
-// get users
-router.get('/', accessControl.assertUserIsAdmin, (req, res, next) => {
-    console.log('asdfasdasdfasdfad');
-    return userStorage.list({ suspend: false, $or: [{ role: 'user' }] }).then(
-        (data) => {
-            return res.send(RS.successMessage(data));
-        },
-        (err) => next(err)
-    );
-});
-
 // get doctor
 router.get('/doctors', accessControl.assertUserIsAdmin, (req, res, next) => {
     console.log('asdfasdasdfasdfad');
@@ -71,7 +60,7 @@ router.get('/doctors', accessControl.assertUserIsAdmin, (req, res, next) => {
 
 router.get(
     '/getAllHospitals',
-    accessControl.assertUserIsAdmin,
+    // accessControl.assertUserIsAdmin,
     (req, res, next) => {
         return userStorage.list({ role: 'hospital' }, userPopulation.find).then(
             (data) => {
@@ -112,18 +101,6 @@ router.get('/get-stats', accessControl.assertUserIsAdmin, async (req, res, next)
 //             return res.send(RS.successMessage(data));
 //         }, err => next(err));
 // });
-
-// get user by Id
-router.get('/:id', accessControl.assertUserIsAdmin, (req, res, next) => {
-    const userId = req.params.id;
-    return userService.getAUser(userId).then(
-        (data) => {
-            return res.send(RS.successMessage(data));
-        },
-        (err) => next(err)
-    );
-});
-
 // update user and change password
 router.put(
     '/:id',
@@ -139,7 +116,16 @@ router.put(
         );
     }
 );
-
+// get user by Id
+router.get('/:id', accessControl.assertUserIsAdmin, (req, res, next) => {
+    const userId = req.params.id;
+    return userService.getAUser(userId).then(
+        (data) => {
+            return res.send(RS.successMessage(data));
+        },
+        (err) => next(err)
+    );
+});
 // create hospitals
 router.post('/', accessControl.assertUserIsAdmin, (req, res, next) => {
     const param = req.body;
